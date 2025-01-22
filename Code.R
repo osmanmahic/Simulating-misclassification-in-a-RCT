@@ -1,5 +1,5 @@
 #######################################################################################
-# File name: imputation.R
+# File name: Code.R
 # Author: Osman Mahic
 # Date: 22-01-2025
 # Description: R code for simulating the impact of outcome misclassification in a RCT
